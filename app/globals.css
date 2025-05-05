@@ -4,3 +4,7 @@ body {
   background: url(/bg.jpg) top/cover fixed;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+@theme {
+  --font-tauri: "Tauri", "sans-serif"; 
+}
