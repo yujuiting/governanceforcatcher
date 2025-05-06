@@ -9,8 +9,8 @@ const tauri = Tauri({
 });
 
 export const metadata: Metadata = {
-  title: "Governance for Catcher",
-  description: "Governance for Catcher",
+  title: "Catcher - A One-man Company",
+  description: "Catcher - A One-man Company",
 };
 
 export default function RootLayout({
